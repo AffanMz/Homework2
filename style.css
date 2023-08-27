@@ -111,3 +111,374 @@ li a {
     font-weight: 600;
     margin-bottom: 0px;
 }
+
+.img-kul {
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.img-kul-view {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 0px;
+    background-color: #66ADFF;
+}
+
+.text-kul {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+
+
+.jud-kul {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #373737;
+    font-weight: 600;
+}
+
+.style-card {
+    border-radius: 20px;
+    
+}
+
+.pesan {
+    padding: 30px;
+    border-radius: 30px;
+    background-color: #1682FC;
+
+}
+
+.kal-pesan {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.kal-pesan-1 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.no-sub {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+
+.bad {
+    padding: 0.75em 1em;
+    color: #373737;
+    background-color: white;
+    
+}
+
+.info-content {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #373737;
+}
+
+.form-cus {
+    height: 70px; 
+    font-size:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+}
+
+.form-cus-1 {
+    height: 200px; 
+    font-size:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+}
+
+.form-title {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #373737;
+}
+
+.but-form {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.foot-cus {
+    background: linear-gradient(180deg, #65ADFE 0%, #1682FC 100%);
+    box-shadow: 0px -10px 29px 0px #00000040;
+}
+
+ion-icon {
+    --ionicon-stroke-width: 50px;
+}
+.jud-gal-1 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 0.7em;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+/* ======================ini Pembatas Media===================== */
+/* ======================ini Pembatas Media===================== */
+/* ======================ini Pembatas Media===================== */
+/* ======================ini Pembatas Media===================== */
+/* ======================ini Pembatas Media===================== */
+/* ======================ini Pembatas Media===================== */
+
+
+@media (max-width: 576px) {
+
+.log-sig {
+    margin-top:20px;
+}
+
+.header {
+    font-family: 'Jockey One', sans-serif;
+    font-size: 30px;
+}
+
+
+.body-body {
+    padding: 25px 0px;
+    margin-top: 85px;
+    background: linear-gradient(180deg, #65ADFE 0%, #1682FC 100%);
+}
+
+.kal {
+    font-size: 27px;
+}
+
+.sub-body {
+    font-size: 14px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-weight: 500;
+}
+
+.dis-cus {
+    font-size: 12px;
+    padding: 5px;
+}
+
+.gambar {
+    width: 80px;
+    height: 100%;
+    flex-shrink: 0;
+    background: url(<path-to-image>), contain no-repeat;
+}
+
+.layers {
+    margin-top: -18px;
+    width: 100%;
+    height: 130px;
+    border-radius: 25px;
+    background: #FFF;
+    box-shadow: 0px 17px 19px 0px rgba(0, 0, 0, 0.25);
+}
+
+.kate-sub {
+    font-size: 9px;
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #373737;
+    margin-bottom: 0px;
+}
+
+.kate {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #373737;
+    margin-bottom: 0px;
+}
+
+.kate-cus-1 {
+    width: 100%;
+}
+
+.gambar-icon {
+    padding-left: 0px;
+    width: 45px;
+    height: 60px;
+}
+
+.mar-row {
+    margin-bottom: 10px;
+}
+
+.sub-content {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #373737;
+}
+
+.col-3 {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+.jud-gal {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.cus-status {
+    font-size: 1em;
+}
+
+.sub-jud-gal {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 0.7em;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 0px;
+    padding-top: 4px;
+}
+
+.cus-detail {
+    font-size: 0.8em;
+    margin-bottom: 0px;
+}
+
+.img-gal {
+    width: 100%;
+    height: 200px;
+    border-radius: 30px;
+    border: 0px;
+    background-color: #66ADFF;
+    margin-bottom: 20px;
+}
+
+.jud-gal-1 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 0.7em;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+
+.col-2 {
+    flex: 0 0 auto;
+    width: 32.39%;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+}
+
+.pad-left {
+    margin-left: 5px;
+}
+
+.pad-righ {
+    margin-right: 5px;
+}
+
+.jud-kul {
+    font-size: 1em;
+}
+
+.text-kul {
+    font-size: 0.7rem;
+}
+
+.cus-det {
+    font-size: 1rem;
+}
+
+.cus-tom {
+    margin-bottom: 0px; 
+    font-size:0.6rem;
+}
+
+.info-content {
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+.form-title {
+    font-size: 1.2rem;
+}
+
+.form-cus {
+    height: 40px;
+    font-size: 1rem;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+}
+
+.form-cus-1 {
+    height: 120px;
+    font-size: 1rem;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+}
+
+.but-form {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+}
+
+.kal-pesan {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 0px;
+    font-size: 0.9rem;
+}
+
+.sub-body {
+    font-size: 0.5rem;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-weight: 500;
+}
+
+.cus-icon-1 {
+    font-size: 2rem; 
+    color:white; 
+    margin-left:10px;
+} 
+
+.sub-content {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #373737;
+}
+
+.kal-pesan-1 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 0px;
+    font-size: 0.7rem;
+}
+
+.no-sub {
+    font-size: 1.5rem;
+}
+
+
+}
